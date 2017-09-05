@@ -1,0 +1,51 @@
+{
+    "boundaries": [
+        {
+            "name": "simple boundary title",
+            "rectangle": [
+                24,
+                25,
+                254,
+                152
+            ]
+        },
+        {
+            "name": "simple boundary title",
+            "rectangle": [
+                345,
+                24,
+                282,
+                156
+            ]
+        },
+        {
+            "name": "simple boundary title",
+            "rectangle": [
+                33,
+                204,
+                689,
+                246
+            ]
+        }
+    ],
+    "name": "simple_customer",
+    "po": [
+        {
+            "data": [
+                {
+                    "name": "simple title",
+                    "text": "New World Company\n\n \n\nT0: eme Pars Coporation\n1223 Kator Steet\nGlobs, Sansing 1000\n(va Fax"
+                },
+                {
+                    "name": "simple title",
+                    "text": "PURCHASE ORDER\n\nSIP To: Tre New Work Comsany\n2407 Clonee: Rond\nGesesiy. oinsians, 000\n\nAtm"
+                },
+                {
+                    "name": "simple title",
+                    "text": "resume\n\n \n\nimen} _ amar |enermmeen _ |oescrurron MND |u| __ vreme\nSor 10 Rms ~ Nn Sore Crome rse worn Zeon en as\nson as ressse - Nw . en remo\nson a ressse - hw sone strom tion . ea some\naoe - 2 Larsss - hw atas 20201 . en aoe\ncas - t2 Leas - hw atos vounp Readers Series zeman . ea tomo\nsor - ao - Nw renzo . en rso\nsar - as assass - . ea 100\ncoe - so assess - hw r 20201 . en soo\nsoe - 100 - hw romoseraiCalerdars . en aro\nore - 100 - hw PomotenatBatoons reo201 . en ois"
+                }
+            ],
+            "name": "simple po"
+        }
+    ]
+}

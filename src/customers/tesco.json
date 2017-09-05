@@ -1,0 +1,15 @@
+{
+    "boundaries": [
+        {
+            "name": "detail",
+            "rectangle": [
+                10,
+                10,
+                60,
+                50
+            ]
+        }
+    ],
+    "data": [],
+    "name": "tesco"
+}
